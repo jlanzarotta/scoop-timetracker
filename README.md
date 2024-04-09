@@ -5,9 +5,9 @@
 
 <!-- [![Tests](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/ci.yml) [![Excavator](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml/badge.svg)](https://github.com/<username>/<bucketname>/actions/workflows/excavator.yml) -->
 
-## How do I install these manifests?
+## How do I install this manifest?
 
-After manifests have been committed and pushed, run the following:
+After the manifest have been committed and pushed, run the following:
 
 ```pwsh
 scoop bucket add timetracker https://github.com/jlanzarotta/scoop-timetracker

@@ -1,4 +1,4 @@
-# Timetracker Scoop Bucket
+# Time Tracker Scoop Bucket
 
 <!-- Uncomment the following line after replacing placeholders -->
 [![Tests](https://github.com/jlanzarotta/scoop-timetracker/actions/workflows/ci.yml/badge.svg)](https://github.com/jlanzarotta/scoop-timetracker/actions/workflows/ci.yml) [![Excavator](https://github.com/jlanzarotta/scoop-timetracker/actions/workflows/excavator.yml/badge.svg)](https://github.com/jlanzarotta/scoop-timetracker/actions/workflows/excavator.yml)

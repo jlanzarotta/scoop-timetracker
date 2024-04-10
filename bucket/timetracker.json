@@ -5,7 +5,7 @@
     "homepage": "https://github.com/jlanzarotta/timetracker",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/timetracker/releases/download/$version/timetracker_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/timetracker/releases/download/1.2.1/timetracker_Windows_x86_64.zip",
             "hash": "1361c80f9c3561d9c0ff19e573dce722217b324878a6b5f229898d3f5cd953ed"
         }
     },

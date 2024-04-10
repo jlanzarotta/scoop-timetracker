@@ -1,12 +1,12 @@
 {
-    "version": "1.1.6",
+    "version": "1.2.1",
     "description": "Simple command line time tracker written in Go.",
     "license": "BSD-3-Clause",
     "homepage": "https://github.com/jlanzarotta/timetracker",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/timetracker/releases/download/1.1.6/timetracker_Windows_x86_64.zip",
-            "hash": "f6c6632e690a3fbaa12c2ec10650b3709edeaf64f48463e510700f2fcf820b70"
+            "url": "https://github.com/jlanzarotta/timetracker/releases/download/$version/timetracker_Windows_x86_64.zip",
+            "hash": "1361c80f9c3561d9c0ff19e573dce722217b324878a6b5f229898d3f5cd953ed"
         }
     },
     "bin": "timetracker.exe",

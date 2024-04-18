@@ -1,12 +1,12 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/timetracker/releases/download/1.2.6/timetracker_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/timetracker/releases/download/1.2.7/timetracker_Windows_x86_64.zip",
             "bin": [
                 "timetracker.exe"
             ],
-            "hash": "0197bf2536b2ac88284dda1284c62ac9a5ed0f2c4b451864dfda129e5426dd16"
+            "hash": "85c1483231d9104d5c2427d15efa69e7da1939c78b0190f5be732dd011cb57f6"
         }
     },
     "homepage": "https://github.com/jlanzarotta/timetracker",
